@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN stack**
 
-- my **Portfolio Website**  : https://ayusharma.netlify.app/
+- My **Portfolio Website**  : https://ayusharma.netlify.app/
 
 - 📫 How to reach me **aayusharma9009@gmail.com**
 
