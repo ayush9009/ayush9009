@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h3 align="center">A Passionate Software Development Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush9009&label=Profile%20views&color=0e75b6&style=flat" alt="ayush9009" /> </p>
