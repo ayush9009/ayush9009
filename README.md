@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **MERN stack**
+- 💬 Ask me about **Full Stack**
 
 - My **Portfolio Website**  : https://ayusharma.netlify.app/
 
