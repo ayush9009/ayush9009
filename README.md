@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush9009&label=Profile%20views&color=0e75b6&style=flat" alt="ayush9009" /> </p>
 
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Spring boot**
 
 - 💬 Ask me about **Full Stack**
 
