@@ -51,12 +51,6 @@ Each service independently scalable and deployable.
 | **Concepts** | System Design (LLD/HLD), DSA, Multithreading, CI/CD Pipelines |
 
 ---
-
-## 📖 Currently Learning
-
-- **Apache Kafka** — event streaming, consumer groups, partitioning strategies
-- **Redis** — caching patterns, pub/sub, session management at scale
-
 ---
 
 ## 🏆 Achievements
