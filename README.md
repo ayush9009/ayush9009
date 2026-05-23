@@ -1,74 +1,77 @@
-<h1 align="center">Hi 👋, I'm Ayush Sharma</h1>
-<h3 align="center">Software Development Engineer</h3>
+# Ayush Sharma
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+**SDE @ Finnable · Full Stack + Backend · Java · Spring Boot · React · AWS**
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ayush9009&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
-* 🌱 I’m currently learning **Redis**
-* 💬 Ask me about **Full Stack Development**
-* 🌐 My Portfolio: https://ayusharma.netlify.app/
-* 📫 Reach me at: **[aayusharma9009@gmail.com](mailto:aayusharma9009@gmail.com)**
-* ⚡ Fun fact: **I think I am funny 😄**
+Building scalable fintech systems and clean user interfaces that move real numbers.
+Currently deep-diving into **Kafka** and **Redis**. Open to remote roles and high-impact product teams.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 💼 Work Experience
 
-<p align="left">
-  <a href="https://linkedin.com/in/ayush-sharma-31250420a">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/aayush.8870">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-</p>
+### Software Development Engineer 1 — Finnable (Fintech) `Apr 2025 – Present`
+- Engineered SaaS backend for a Loan Against Property (LAP) product using **Java, Spring Boot, AWS** (Lambda, RDS, S3, DynamoDB, API Gateway) → **↓40% API response time**
+- Built the Lead Management System frontend with **React, Redux, Material-UI** → **↓35% page load time**
+- Automated Sales MIS reporting using **AWS Athena SQL** → **↓60% manual reporting effort**
+- Implemented CIBIL API encryption via **hybrid RSA+AES** approach → **↓50% sensitive data exposure risk**
 
----
+### Software Engineer — Samvit Shikshan Pvt Ltd `Mar 2024 – Feb 2025`
+- Architected a **Psychometric Testing Platform** (React + Node.js) with real-time scoring and role-based access
+- Built a full-stack **LMS** with JWT auth, Razorpay payments, and Nodemailer → **↑40% security & ops efficiency**
+- Integrated **Microsoft Azure Graph API** for Teams connectivity → **↓50% manual data sync**
 
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>&nbsp;
-  <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>&nbsp;
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>&nbsp;
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>&nbsp;
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>&nbsp;
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>&nbsp;
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>&nbsp;
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>&nbsp;
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>&nbsp;
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>&nbsp;
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>&nbsp;
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>&nbsp;
-  <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/></a>&nbsp;
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>&nbsp;
-  <a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/></a>&nbsp;
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>&nbsp;
-  <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></a>&nbsp;
-  <a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/></a>&nbsp;
-  <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/></a>&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>&nbsp;
-  <a href="https://www.tensorflow.org"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/></a>
-</p>
+### Software Developer Intern — CariKture India `Sep 2023 – Nov 2023`
+- Developed responsive UIs using HTML5, CSS3, JavaScript, and Bootstrap for client projects
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush9009&show_icons=true&locale=en&layout=compact" />
-</p>
+## 🚀 Projects
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush9009&show_icons=true&locale=en" />
-</p>
+### [Let's Chat](https://github.com/ayush9009) — Real-time Chat App
+A full-stack chat application with group creation, user search, and instant messaging.
+Socket.IO for sub-100ms message delivery.
+`MongoDB` `Express` `React` `Node.js` `Socket.IO`
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush9009&" />
-</p>
+### [Library System](https://github.com/ayush9009) — Microservices Architecture
+Microservices-based Books Library with RESTful inter-service communication and Docker containerisation.
+Each service independently scalable and deployable.
+`Node.js` `Express` `MongoDB` `Docker` `Microservices`
 
 ---
 
-<img height="120" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+## 🛠 Tech Stack
+
+| Area | Technologies |
+|------|-------------|
+| **Languages** | Java, JavaScript, TypeScript, Python, C++, SQL |
+| **Backend** | Spring Boot, Node.js, Express, REST APIs, Kafka, Redis |
+| **Frontend** | React.js, Redux, Material-UI, Tailwind, HTML5, CSS3 |
+| **Cloud & Infra** | AWS (Lambda, RDS, S3, DynamoDB), Docker, Kubernetes, Jenkins |
+| **Databases** | MongoDB, MySQL, DynamoDB, Hibernate ORM |
+| **Concepts** | System Design (LLD/HLD), DSA, Multithreading, CI/CD Pipelines |
+
+---
+
+## 📖 Currently Learning
+
+- **Apache Kafka** — event streaming, consumer groups, partitioning strategies
+- **Redis** — caching patterns, pub/sub, session management at scale
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **LeetCode Knight** — top 3% globally, max rating **1930+**
+- ⭐ **HackerRank 5-star** in C++ and Java
+- 🌍 **Global Rank 42** — Codechef Starters 74, 2023
+- 🏅 **Semifinalist** — Airtel IQ Hackathon & TVS Credit EPIC 5.0 IT Challenge
+
+---
+
+## 📫 Contact
+
+- 📧 aayusharma9009@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/ayush-sharma-31250420a)
+- 🌐 [Portfolio](https://ayusharma.netlify.app/)
+- 💻 [GitHub](https://github.com/ayush9009)
+- ⚔️ [LeetCode](https://leetcode.com/ayush_sharma9009)
