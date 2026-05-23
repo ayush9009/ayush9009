@@ -28,20 +28,6 @@ Currently deep-diving into **Kafka** and **Redis**. Open to high-impact product 
 
 ---
 
-## 🚀 Projects
-
-### [Let's Chat](https://github.com/ayush9009) — Real-time Chat App
-A full-stack chat application with group creation, user search, and instant messaging.
-Socket.IO for sub-100ms message delivery.
-`MongoDB` `Express` `React` `Node.js` `Socket.IO`
-
-### [Library System](https://github.com/ayush9009) — Microservices Architecture
-Microservices-based Books Library with RESTful inter-service communication and Docker containerisation.
-Each service independently scalable and deployable.
-`Node.js` `Express` `MongoDB` `Docker` `Microservices`
-
----
-
 ## 🛠 Tech Stack
 
 | Area | Technologies |
