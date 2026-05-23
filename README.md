@@ -6,7 +6,7 @@
 **SDE · Full Stack + Backend · Java · Spring Boot · React · AWS**
 
 Building scalable fintech systems and clean user interfaces that move real numbers.
-Currently deep-diving into **Kafka** and **Redis**. Open to high-impact product teams.
+Currently deep-diving into **Kafka** and **Redis**. Open to job roles and high-impact product teams.
 
 ---
 
@@ -24,7 +24,7 @@ Currently deep-diving into **Kafka** and **Redis**. Open to high-impact product 
 - Integrated **Microsoft Azure Graph API** for Teams connectivity → **↓50% manual data sync**
 
 ### Software Developer Intern — CariKture India `Sep 2023 – Nov 2023`
-- Developed responsive UIs using HTML5, CSS3, JavaScript, and Bootstrap for client projects
+- Developed responsive UIs using HTML5, CSS3, JavaScript, and Bootstrap for client projects.
 
 ---
 
@@ -41,6 +41,13 @@ Currently deep-diving into **Kafka** and **Redis**. Open to high-impact product 
 
 ---
 
+## 📖 Currently Learning
+
+- **Apache Kafka** — event streaming, consumer groups, partitioning strategies
+- **Redis** — caching patterns, pub/sub, session management at scale
+
+---
+
 ## 🏆 Achievements
 
 - 🥇 **LeetCode Knight** — top 3% globally, max rating **1930+**
@@ -50,9 +57,43 @@ Currently deep-diving into **Kafka** and **Redis**. Open to high-impact product 
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Stats
 
-- 📧 aayusharma0220@gmail.com
-- 💼 [LinkedIn](https://linkedin.com/in/ayush-sharma-31250420a)
-- 🌐 [Portfolio](https://ayusharma.netlify.app/)
-- 💻 [GitHub](https://github.com/ayush9009)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush9009&show_icons=true&locale=en&layout=compact&theme=default" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayush9009&show_icons=true&locale=en&theme=default&count_private=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush9009&theme=default&hide_current_streak=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="mailto:aayusharma0220@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/ayush-sharma-31250420a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://ayusharma.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/ayush9009" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>&nbsp;
+</p>
+
+---
+
+<p align="center">
+  <i>✨ Thanks for stopping by — if something here caught your eye, let's build something great together! ✨</i>
+</p>
+
+<img height="120" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
