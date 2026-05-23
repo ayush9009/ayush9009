@@ -3,7 +3,7 @@
 </p>
 
 # Ayush Sharma
-**SDE · Full Stack + Backend · Java · Spring Boot · React · AWS**
+**SDE · Full Stack ·Backend ·Frontend· Java · Spring Boot · React · AWS**
 
 Building scalable fintech systems and clean user interfaces that move real numbers.
 Currently deep-diving into **Kafka** and **Redis**. Open to job roles and high-impact product teams.
