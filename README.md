@@ -1,6 +1,6 @@
 # Ayush Sharma
 
-**SDE @ Finnable · Full Stack + Backend · Java · Spring Boot · React · AWS**
+**SDE · Full Stack + Backend · Java · Spring Boot · React · AWS**
 
 Building scalable fintech systems and clean user interfaces that move real numbers.
 Currently deep-diving into **Kafka** and **Redis**. Open to remote roles and high-impact product teams.
@@ -9,7 +9,7 @@ Currently deep-diving into **Kafka** and **Redis**. Open to remote roles and hig
 
 ## 💼 Work Experience
 
-### Software Development Engineer 1 — Finnable (Fintech) `Apr 2025 – Present`
+### Software Development Engineer 1  Apr 2025 – Present
 - Engineered SaaS backend for a Loan Against Property (LAP) product using **Java, Spring Boot, AWS** (Lambda, RDS, S3, DynamoDB, API Gateway) → **↓40% API response time**
 - Built the Lead Management System frontend with **React, Redux, Material-UI** → **↓35% page load time**
 - Automated Sales MIS reporting using **AWS Athena SQL** → **↓60% manual reporting effort**
