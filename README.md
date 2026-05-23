@@ -1,15 +1,15 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ayush9009&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 # Ayush Sharma
-
 **SDE · Full Stack + Backend · Java · Spring Boot · React · AWS**
-
-Building scalable fintech systems and clean user interfaces that move real numbers.
-Currently deep-diving into **Kafka** and **Redis**. Open to remote roles and high-impact product teams.
 
 ---
 
 ## 💼 Work Experience
 
-### Software Development Engineer 1  Apr 2025 – Present
+### Software Development Engineer 1  `Apr 2025 – Present`
 - Engineered SaaS backend for a Loan Against Property (LAP) product using **Java, Spring Boot, AWS** (Lambda, RDS, S3, DynamoDB, API Gateway) → **↓40% API response time**
 - Built the Lead Management System frontend with **React, Redux, Material-UI** → **↓35% page load time**
 - Automated Sales MIS reporting using **AWS Athena SQL** → **↓60% manual reporting effort**
@@ -51,7 +51,6 @@ Each service independently scalable and deployable.
 | **Concepts** | System Design (LLD/HLD), DSA, Multithreading, CI/CD Pipelines |
 
 ---
----
 
 ## 🏆 Achievements
 
@@ -64,8 +63,7 @@ Each service independently scalable and deployable.
 
 ## 📫 Contact
 
-- 📧 aayusharma9009@gmail.com
+- 📧 aayusharma0220@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/ayush-sharma-31250420a)
 - 🌐 [Portfolio](https://ayusharma.netlify.app/)
 - 💻 [GitHub](https://github.com/ayush9009)
-- ⚔️ [LeetCode](https://leetcode.com/ayush_sharma9009)
